@@ -46,7 +46,7 @@ eureka:
 Use docker-compose as part of the full system
 To build and run the container:
 ```bash
-> docker compose up --build eureka-service
+> docker compose up --build eureka-server
 ```
 
 ## 📚 Notes
